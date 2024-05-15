@@ -50,3 +50,4 @@
   
 </div>
 
+![Snake animation](https://github.com/Leandrorocha1983/Leandrorocha1983/blob/output/github-contribution-grid-snake.svg)
