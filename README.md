@@ -6,7 +6,7 @@
 - Testes utilizando Gherkin BDD, TDD
 - Frameworks Robot Framework, Selenium e Cypress
 - Banco de dados PlSQL, MySql, Postgress
-- Versionamento utilizando GIT GITUB E GITLAB
+- Versionamento utilizando GIT GITHUB E GITLAB
 - Desenvolvimento utilizando Docker e Jenkins
 - Desenvolvimento no ambiente Linux, Windows e Unix
 
