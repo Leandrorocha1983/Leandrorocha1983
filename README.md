@@ -1,6 +1,13 @@
-## Olá! Eu sou o Leandro Rocha.
+<span align="center">
 
-- Trabalho como desenvolvedor teste automatizado á 12 anos, moro em Itapecerica da Serra - SP, tenho experiencia em gestão e desenvolvimento de projetos escaláveis utilizando Web, Mobile e APIs.  
+## *Olá, seja muito bem-vindo ao meu perfil GitHub!*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b1633f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!+My+name+is+Leandro+Rocha.;I'm+from+Brazil+and+40+years+old!;Be+Welcome!)](https://git.io/typing-svg)
+
+</span>
+
+<span align="justify">
+
+- Trabalho como desenvolvedor e teste automatizado á 12 anos, moro em Itapecerica da Serra - SP, tenho experiencia em gestão e desenvolvimento de projetos escaláveis utilizando Web, Mobile e APIs.  
 - Conhecimento em AWS e Kubernetes
 - Desenvolvimento agil SCRUM, Kanban
 - Testes utilizando Gherkin BDD, TDD
@@ -10,44 +17,28 @@
 - Desenvolvimento utilizando Docker e Jenkins
 - Desenvolvimento no ambiente Linux, Windows e Unix
 
-<div>
+#
+
+<span align="center">
+  
+<div align="center">
   <a href="https://github.com/Leandrorocha1983">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandrorocha1983&show_icons=true&theme=dracula&include_allcommits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrorocha1983&layout=compact&langs_count=16&theme=dracula"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leandrorocha1983&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrorocha1983&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true" style="max-width: 400px; height: 200px;">
+  </a>
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leandrorocha1983&bg_color=0d1117&color=b1633f&line=b1633f&point=b1633f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Leandro-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
-  <img align="center" alt="Leandro-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
-  <img align="center" alt="Leandro-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="Leandro-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  <img align="center" alt="Leandro-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg" />
-  <img align="center" alt="Leandro-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
-  <img align="center" alt="Leandro-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original-wordmark.svg" />
-  <img align="center" alt="Leandro-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
-  <img align="center" alt="Leandro-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" />
-  <img align="center" alt="Leandro-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
-  <img align="center" alt="Leandro-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
-  <img align="center" alt="Leandro-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
-  <img align="center" alt="Leandro-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" />
-  <img align="center" alt="Leandro-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img align="center" alt="Leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leandro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Leandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Leandro-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Leandro-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Leandro-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="mailto:lrocha1983@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="mailto:lrocha@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leandro-rocha-15546837" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,aws,azure,c,cs,cpp,css,discord,django,dotnet,dynamodb,eclipse,figma,git,github,gitlab,gherkin,gtk,haxe,html,java,js,jenkins,jest,jquery,latex,kubernetes,matlab,maven,mysql,nodejs,postgres,powershell,postgres,py,pytorch,r,react,redux,sass,spring,selenium,tensorflow,ts,unity,v,visualstudio,vscode" />
+  </a>
+</p>          
 
-![Snake animation](https://github.com/Leandrorocha1983/Leandrorocha1983/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+  
+  </span>
