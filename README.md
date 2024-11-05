@@ -7,7 +7,33 @@
 
 <span align="justify">
 
-- Trabalho como desenvolvedor e teste automatizado á 12 anos, moro em Itapecerica da Serra - SP, tenho experiencia em gestão e desenvolvimento de projetos escaláveis utilizando Web, Mobile e APIs.  
+- Trabalho como desenvolvedor e teste automatizado á 12 anos, moro em Itapecerica da Serra - SP, tenho experiencia em gestão e desenvolvimento de projetos escaláveis utilizando Web, Mobile e APIs.
+- Desenvolvedor Full Stack JavaScript | Especialista em Testes Automatizados
+  Grandes Instituições Financeiras - Banco BTG Pactual, B3, XP Investimentos, Bradesco, Santander, Sicredi, Next
+- Responsabilidades e Conquistas:
+- Desenvolvimento Full Stack: Atuei no desenvolvimento de aplicações web e mobile com foco em tecnologias JavaScript. Utilizei Node.js e Express para APIs RESTful, integração de bancos 
+  de dados (MySQL, MongoDB) e autenticação JWT, garantindo segurança e escalabilidade.
+- Front-end e UI/UX: Construí interfaces responsivas com React, Redux, HTML5 e CSS3, priorizando performance e experiência do usuário.
+- Integração e DevOps: Realizei deploys automatizados em ambientes de produção configurando Linux, NGINX e PM2 para estabilidade e continuidade dos sistemas.
+
+- Projetos Específicos:
+- API de Autenticação: API segura com Express, MongoDB e JWT.
+- Sistema CRUD: CRUD completo com login e autenticação JWT.
+- Aplicativo de Tarefas: Aplicação de lista de tarefas com React e persistência com localStorage.
+- Blog com NextJS e Strapi: Blog otimizado com NextJS e Strapi, renderização SSR e SSG e deploy contínuo.
+- Qualidade de Software: Forte experiência em testes automatizados, utilizando Jest para testes unitários e Cypress para E2E. Ferramentas como Selenium também foram aplicadas, 
+  assegurando alta qualidade em aplicações complexas.
+
+- Competências:
+- Linguagens e Frameworks: JavaScript (ES6+), TypeScript, Node.js, Express, React, Redux, HTML5, CSS3
+- Banco de Dados: MySQL, PostgreSQL, MongoDB
+- Testes e Qualidade: Jest, Mocha, Cypress, Selenium, ESLint, Prettier
+- DevOps e Ferramentas: CI/CD (GitLab CI, Jenkins), Linux, NGINX, PM2
+
+- Projetos Relevantes:
+- API REST com Node.js: Autenticação JWT e CRUD com bancos SQL e NoSQL.
+- Aplicação Full Stack: Aplicação de tarefas com React, localStorage e autenticação.
+- Blog com NextJS: Blog SEO otimizado, SSR e SSG com deploy contínuo.
 - Conhecimento em AWS e Kubernetes
 - Desenvolvimento agil SCRUM, Kanban
 - Testes utilizando Gherkin BDD, TDD
